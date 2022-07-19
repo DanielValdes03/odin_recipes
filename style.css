@@ -73,3 +73,12 @@ footer a:hover {
     transition: all 300ms;
     margin-bottom: 10px;
 }
+
+/*Responsive*/
+@media screen and (max-width: 900px) {
+
+    .main_container div {
+        width: 100%;
+    }
+
+}
